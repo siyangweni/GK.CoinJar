@@ -10,3 +10,15 @@ C:\GK\GK.CoinJar\GK.CoinJar.Business\obj\Debug\netstandard2.0\GK.CoinJar.Busines
 C:\GK\GK.CoinJar\GK.CoinJar.Business\obj\Debug\netstandard2.0\GK.CoinJar.Business.csproj.CopyComplete
 C:\GK\GK.CoinJar\GK.CoinJar.Business\obj\Debug\netstandard2.0\GK.CoinJar.Business.dll
 C:\GK\GK.CoinJar\GK.CoinJar.Business\obj\Debug\netstandard2.0\GK.CoinJar.Business.pdb
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Business\bin\Debug\netstandard2.0\GK.CoinJar.Business.deps.json
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Business\bin\Debug\netstandard2.0\GK.CoinJar.Business.dll
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Business\bin\Debug\netstandard2.0\GK.CoinJar.Business.pdb
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Business\bin\Debug\netstandard2.0\GK.CoinJar.Contracts.dll
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Business\bin\Debug\netstandard2.0\GK.CoinJar.Contracts.pdb
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Business\obj\Debug\netstandard2.0\GK.CoinJar.Business.csprojAssemblyReference.cache
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Business\obj\Debug\netstandard2.0\GK.CoinJar.Business.AssemblyInfoInputs.cache
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Business\obj\Debug\netstandard2.0\GK.CoinJar.Business.AssemblyInfo.cs
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Business\obj\Debug\netstandard2.0\GK.CoinJar.Business.csproj.CoreCompileInputs.cache
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Business\obj\Debug\netstandard2.0\GK.CoinJar.Business.csproj.CopyComplete
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Business\obj\Debug\netstandard2.0\GK.CoinJar.Business.dll
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Business\obj\Debug\netstandard2.0\GK.CoinJar.Business.pdb

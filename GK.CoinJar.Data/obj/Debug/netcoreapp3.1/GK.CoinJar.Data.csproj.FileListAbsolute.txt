@@ -10,3 +10,15 @@ C:\GK\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.csproj.
 C:\GK\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.csproj.CopyComplete
 C:\GK\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.dll
 C:\GK\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.pdb
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Data\bin\Debug\netcoreapp3.1\GK.CoinJar.Data.deps.json
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Data\bin\Debug\netcoreapp3.1\GK.CoinJar.Data.dll
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Data\bin\Debug\netcoreapp3.1\GK.CoinJar.Data.pdb
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Data\bin\Debug\netcoreapp3.1\GK.CoinJar.Contracts.dll
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Data\bin\Debug\netcoreapp3.1\GK.CoinJar.Contracts.pdb
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.csprojAssemblyReference.cache
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.AssemblyInfoInputs.cache
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.AssemblyInfo.cs
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.csproj.CoreCompileInputs.cache
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.csproj.CopyComplete
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.dll
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.pdb

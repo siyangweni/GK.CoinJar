@@ -1,15 +1,7 @@
 ﻿using System;
-using System.Web.Http;
 using GK.CoinJar.Contracts;
 using GK.CoinJar.Contracts.Models;
 using Microsoft.AspNetCore.Mvc;
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using HttpPostAttribute = Microsoft.AspNetCore.Mvc.HttpPostAttribute;
 using RouteAttribute = Microsoft.AspNetCore.Mvc.RouteAttribute;
 using FromBodyAttribute = Microsoft.AspNetCore.Mvc.FromBodyAttribute;

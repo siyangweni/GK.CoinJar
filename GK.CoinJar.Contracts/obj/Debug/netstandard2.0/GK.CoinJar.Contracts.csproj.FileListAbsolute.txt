@@ -7,3 +7,12 @@ C:\GK\GK.CoinJar\GK.CoinJar.Contracts\obj\Debug\netstandard2.0\GK.CoinJar.Contra
 C:\GK\GK.CoinJar\GK.CoinJar.Contracts\obj\Debug\netstandard2.0\GK.CoinJar.Contracts.dll
 C:\GK\GK.CoinJar\GK.CoinJar.Contracts\obj\Debug\netstandard2.0\GK.CoinJar.Contracts.pdb
 C:\GK\GK.CoinJar\GK.CoinJar.Contracts\obj\Debug\netstandard2.0\GK.CoinJar.Contracts.csprojAssemblyReference.cache
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Contracts\bin\Debug\netstandard2.0\GK.CoinJar.Contracts.deps.json
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Contracts\bin\Debug\netstandard2.0\GK.CoinJar.Contracts.dll
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Contracts\bin\Debug\netstandard2.0\GK.CoinJar.Contracts.pdb
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Contracts\obj\Debug\netstandard2.0\GK.CoinJar.Contracts.csprojAssemblyReference.cache
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Contracts\obj\Debug\netstandard2.0\GK.CoinJar.Contracts.AssemblyInfoInputs.cache
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Contracts\obj\Debug\netstandard2.0\GK.CoinJar.Contracts.AssemblyInfo.cs
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Contracts\obj\Debug\netstandard2.0\GK.CoinJar.Contracts.csproj.CoreCompileInputs.cache
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Contracts\obj\Debug\netstandard2.0\GK.CoinJar.Contracts.dll
+C:\Stuff\GlobalKinetic\GK.CoinJar\GK.CoinJar.Contracts\obj\Debug\netstandard2.0\GK.CoinJar.Contracts.pdb
