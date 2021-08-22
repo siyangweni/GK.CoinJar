@@ -1,0 +1,12 @@
+C:\GK\GK.CoinJar\GK.CoinJar.Data\bin\Debug\netcoreapp3.1\GK.CoinJar.Data.deps.json
+C:\GK\GK.CoinJar\GK.CoinJar.Data\bin\Debug\netcoreapp3.1\GK.CoinJar.Data.dll
+C:\GK\GK.CoinJar\GK.CoinJar.Data\bin\Debug\netcoreapp3.1\GK.CoinJar.Data.pdb
+C:\GK\GK.CoinJar\GK.CoinJar.Data\bin\Debug\netcoreapp3.1\GK.CoinJar.Contracts.dll
+C:\GK\GK.CoinJar\GK.CoinJar.Data\bin\Debug\netcoreapp3.1\GK.CoinJar.Contracts.pdb
+C:\GK\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.csprojAssemblyReference.cache
+C:\GK\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.AssemblyInfoInputs.cache
+C:\GK\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.AssemblyInfo.cs
+C:\GK\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.csproj.CoreCompileInputs.cache
+C:\GK\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.csproj.CopyComplete
+C:\GK\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.dll
+C:\GK\GK.CoinJar\GK.CoinJar.Data\obj\Debug\netcoreapp3.1\GK.CoinJar.Data.pdb

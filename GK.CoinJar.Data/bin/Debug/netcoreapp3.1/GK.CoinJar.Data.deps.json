@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GK.CoinJar.Data/1.0.0": {
+        "dependencies": {
+          "GK.CoinJar.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "GK.CoinJar.Data.dll": {}
+        }
+      },
+      "GK.CoinJar.Contracts/1.0.0": {
+        "runtime": {
+          "GK.CoinJar.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GK.CoinJar.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GK.CoinJar.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
